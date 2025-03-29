@@ -59,14 +59,8 @@ If you prefer not to use packages, you can copy the full configuration from the 
 After installation, you'll find the new controls in your device's Configuration panel:
 
 1. **Dynamic Volume**: Toggle switch to enable/disable the feature
-2. **Dyn. Vol. Anchor**: Base volume level (0.1-0.85)
-3. **Dyn. Vol. Strength**: How aggressively volume increases with ambient noise (0-5)
-
-### Recommended Settings
-
-- For quiet environments (bedroom, office): Anchor 0.2-0.3, Strength 1.0-1.5
-- For variable environments (living room, kitchen): Anchor 0.3-0.4, Strength 1.5-2.5
-- For noisy environments: Anchor 0.4-0.5, Strength 2.5-4.0
+2. **Dyn. Vol. Anchor**: Base volume level
+3. **Dyn. Vol. Strength**: How aggressively volume increases with ambient noise
 
 ## Technical Details
 
