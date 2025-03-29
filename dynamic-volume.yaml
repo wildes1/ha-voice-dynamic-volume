@@ -232,6 +232,6 @@ interval:
       - script.execute: update_dynamic_volume
 
 logger:
-  level: DEBUG
+  level: INFO
   logs:
-    dynamic_volume: DEBUG
+    dynamic_volume: INFO
