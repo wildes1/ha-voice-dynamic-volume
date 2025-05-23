@@ -97,7 +97,7 @@ sensor:
         delay(50); // Give mic time to start
       }
 
-      size_t bytes_read = id(i2s_mics)->read(
+      size_t bytes_read = id(i2s_mics)->read_(
         input_buffer, 
         INPUT_BUFFER_SIZE * sizeof(int16_t),
         0
